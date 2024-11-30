@@ -17,7 +17,7 @@ Desenvolvemos um modelo de classificação multirrótulo usando redes neurais ar
 Existem dois conjuntos de dados: um de vírus e um de plantas.
 
 
-Algumas refs: 
+Algumas refs sobre PSO para otimizar Hiperparâmetros de Redes Neurais (tema mais específico do trabalho): 
 
 [artigo](https://www.researchgate.net/publication/318069806_Particle_swarm_optimization_for_hyper-parameter_selection_in_deep_neural_networks)
 
