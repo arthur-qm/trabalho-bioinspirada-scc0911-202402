@@ -15,3 +15,10 @@ com valores que indicam a frequência do código para cada proteína. As seis ú
 Desenvolvemos um modelo de classificação multirrótulo usando redes neurais artificiais.
 
 Existem dois conjuntos de dados: um de vírus e um de plantas.
+
+
+Algumas refs: 
+
+[artigo](https://www.researchgate.net/publication/318069806_Particle_swarm_optimization_for_hyper-parameter_selection_in_deep_neural_networks)
+
+[post no medium](https://medium.com/next-level-german-engineering/hyperparameter-optimisation-utilising-a-particle-swarm-approach-5711957b3f3f)
